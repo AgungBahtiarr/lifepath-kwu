@@ -56,7 +56,7 @@ export function LifePathCalculatorComponent() {
   return (
     <Card className="w-full max-w-md mx-auto">
       <CardHeader>
-        <CardTitle>Life Path Calculator</CardTitle>
+        <CardTitle>Life Path Calculator 🙂‍↕️ 🤌</CardTitle>
         <CardDescription>Masukkan tanggal lahir Anda</CardDescription>
       </CardHeader>
       <CardContent>
